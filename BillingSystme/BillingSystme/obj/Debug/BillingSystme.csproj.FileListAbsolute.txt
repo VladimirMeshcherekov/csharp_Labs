@@ -1,0 +1,7 @@
+E:\Labs\C#\BillingSystme\BillingSystme\obj\Debug\BillingSystme.csproj.AssemblyReference.cache
+E:\Labs\C#\BillingSystme\BillingSystme\obj\Debug\BillingSystme.csproj.SuggestedBindingRedirects.cache
+E:\Labs\C#\BillingSystme\BillingSystme\obj\Debug\BillingSystme.csproj.CoreCompileInputs.cache
+E:\Labs\C#\BillingSystme\BillingSystme\bin\Debug\BillingSystme.exe
+E:\Labs\C#\BillingSystme\BillingSystme\bin\Debug\BillingSystme.pdb
+E:\Labs\C#\BillingSystme\BillingSystme\obj\Debug\BillingSystme.exe
+E:\Labs\C#\BillingSystme\BillingSystme\obj\Debug\BillingSystme.pdb
