@@ -1,0 +1,7 @@
+E:\Labs\C#\Lab2\Lab2\bin\Debug\Lab2.exe.config
+E:\Labs\C#\Lab2\Lab2\bin\Debug\Lab2.exe
+E:\Labs\C#\Lab2\Lab2\bin\Debug\Lab2.pdb
+E:\Labs\C#\Lab2\Lab2\obj\Debug\Lab2.csproj.AssemblyReference.cache
+E:\Labs\C#\Lab2\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+E:\Labs\C#\Lab2\Lab2\obj\Debug\Lab2.exe
+E:\Labs\C#\Lab2\Lab2\obj\Debug\Lab2.pdb
