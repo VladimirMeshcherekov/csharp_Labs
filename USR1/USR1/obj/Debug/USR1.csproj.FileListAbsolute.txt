@@ -1,0 +1,6 @@
+E:\Labs\C#\USR1\USR1\bin\Debug\USR1.exe
+E:\Labs\C#\USR1\USR1\bin\Debug\USR1.pdb
+E:\Labs\C#\USR1\USR1\obj\Debug\USR1.csproj.AssemblyReference.cache
+E:\Labs\C#\USR1\USR1\obj\Debug\USR1.csproj.CoreCompileInputs.cache
+E:\Labs\C#\USR1\USR1\obj\Debug\USR1.exe
+E:\Labs\C#\USR1\USR1\obj\Debug\USR1.pdb
